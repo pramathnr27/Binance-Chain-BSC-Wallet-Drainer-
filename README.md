@@ -1,6 +1,6 @@
 # Binance-Chain-BSC-Wallet-Drainer-
 Binance Chain BSC Wallet Drainer - Drains all the Token in BSC Network 
-Buy Script:- $200
+Price:- $200
 Buy Link:- https://bnbdrainer.sellix.io/product/64799b8f2ae60
 
 Details:-
